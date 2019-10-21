@@ -1,8 +1,8 @@
-# Algorithms
+## Algorithms
 Here are some algorithms and data structures I implemented out of curiousity
 
 [Needleman-Wunsch Algorithm](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/NeedlemanWunsch.java) <br />
-[Smith-Waterman Algorithm](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/SmithWaterman.java)
+[Smith-Waterman Algorithm](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/SmithWaterman.java) <br />
 [Nussionov Algorithm] <br />
 [Hirschberg's Algorithm] <br />
 
