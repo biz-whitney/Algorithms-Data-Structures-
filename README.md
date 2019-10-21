@@ -1,3 +1,5 @@
+# Algorithms and Data Structures
+
 ## Algorithms
 Here are some algorithms and data structures I implemented out of curiousity
 
@@ -8,6 +10,6 @@ Here are some algorithms and data structures I implemented out of curiousity
 
 
 
-# Data Structures 
+### Data Structures 
 [LinkedListDeque](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/LinkedListDeque.java) <br />
 [ArrayDeque](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/ArrayDeque.java) <br />
