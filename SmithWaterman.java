@@ -92,7 +92,12 @@ public class SmithWaterman {
                     + Sim(seqOne.charAt(i-1), seqTwo.charAt(j-1)))  ) {
                 align_one.insert(0, seqOne.charAt(i -1) );
                 align_two.insert(0, seqTwo.charAt(j -1));
-                lines.insert(0, "|");
+                if (seqOne.charAt(i - 1) == seqTwo.charAt(j -1)) {
+                    lines.insert(0, "|");
+                }
+                else {
+                    lines.insert(0, " ");
+                }
                 i--;
                 j--;
             }
