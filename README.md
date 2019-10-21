@@ -5,8 +5,8 @@ Here are some algorithms and data structures I implemented out of curiousity
 ## Algorithms
 [Needleman-Wunsch Algorithm](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/NeedlemanWunsch.java) <br />
 [Smith-Waterman Algorithm](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/SmithWaterman.java) <br />
-[Nussionov Algorithm] <br />
-[Hirschberg's Algorithm] <br />
+[Nussionov Algorithm](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/NussinovAlgorithm.java) <br />
+[Hirschberg's Algorithm](https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm) <br />
 
 
 
