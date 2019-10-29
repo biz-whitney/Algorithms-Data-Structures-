@@ -1,5 +1,5 @@
 # Algorithms and Data Structures
-Here are some algorithms and data structures I implemented out of curiousity
+Here are some algorithms and data structures I implemented.
 
 
 ## Algorithms
