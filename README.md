@@ -10,8 +10,8 @@ Here are some algorithms and data structures I implemented.
 [LCS](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/Algorithms/LCS.py) <br />
 [FindMaxSubarray](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/Algorithms/find_max_subarray.py) <br />
 [QucikSort](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/Algorithms/quicksort.py) <br />
-[Sorts](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/Algorithms/sorts.py)<br />
- 	Implementation of insertion sort, selection sort, heapsort, and counting sort <br />
+[Sorts](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/Algorithms/sorts.py)
+  Implementation of insertion sort, selection sort, heapsort, and counting sort <br />
 
 
 
