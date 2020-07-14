@@ -3,20 +3,22 @@ Here are some algorithms and data structures I implemented.
 
 
 ## Algorithms
-[Needleman-Wunsch Algorithm](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/NeedlemanWunsch.java) <br />
-[Smith-Waterman Algorithm](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/SmithWaterman.java) <br />
-[Nussionov Algorithm](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/NussinovAlgorithm.java) <br />
+[Needleman-Wunsch Algorithm](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/Algorithms/NeedlemanWunsch.java) <br />
+[Smith-Waterman Algorithm](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/Algorithms/SmithWaterman.java) <br />
+[Nussionov Algorithm](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/Algorithms/NussinovAlgorithm.java) <br />
 [Hirschberg's Algorithm](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/HirschbergAlgorithm.java) <br />
-[QuickSort]<br />
-[Sorts]<br />
- 	Implementation of insertion sort, selection sort, heapsort, and counting sort <br />
+[LCS](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/Algorithms/LCS.py) <br />
+[FindMaxSubarray](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/Algorithms/find_max_subarray.py) <br />
+[QucikSort](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/Algorithms/quicksort.py) <br />
+[Sorts](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/Algorithms/sorts.py)
+  Implementation of insertion sort, selection sort, heapsort, and counting sort <br />
 
 
 
 
 ## Data Structures 
-[LinkedListDeque](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/LinkedListDeque.java) <br />
-[ArrayDeque](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/ArrayDeque.java) <br />
-[BinaryTree]<br />
-[RedBlackTree]<br />
+[LinkedListDeque](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/Data%20Structures/LinkedListDeque.java) <br />
+[ArrayDeque](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/Data%20Structures/ArrayDeque.java) <br />
+[BinaryTree](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/Data%20Structures/binarysearchtree.py) <br />
+[RedBlackTree](https://github.com/biz-whitney/Algorithms-Data-Structures-/blob/master/Data%20Structures/redblacktree.py) <br />
 
