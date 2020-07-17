@@ -7,6 +7,7 @@ def print_matrix(matrix):
     @param matrix: result matrix after running LCS
     """
     row = len(matrix)
+    print()
     for i in range(row):
         print(matrix[i])
 
@@ -21,6 +22,7 @@ def trace_lcs(X, Y, C, i, j):
     @param j: column index
     @return: the longest common subsequence
     """
+    print_matrix(C)
     if i == 0 or j == 0:
         return ""
     elif X[i - 1] == Y[j - 1]:

@@ -37,31 +37,33 @@ class Node:
     def remove_neighbor(self, node):
         self.neighbors.remove(node)
 
+global time
+time = 0
 
 def dfs(adjList):
     """
     Runs DFS and checks if each node is visited
     @param adjList: Adjacency List of the graph
     """
-    time = -1
     for node in adjList:
         if node.color == WHITE:
-            dfs_visit( node, time)
+            dfs_visit(node)
 
 
-def dfs_visit(node, time):
+def dfs_visit(node):
     """
     Recursively visits each neighbor of the node
     @param node: the current node to explore
     @param time: the time the node is visited
     """
+    global time
     time += 1
     node.distance = time
     node.color = GRAY
     for neighbor in node.neighbors:
         if neighbor.color == WHITE:
             neighbor.predecessor = node
-            dfs_visit(neighbor, time)
+            dfs_visit(neighbor)
     node.color = BLACK
     time += 1
     node.f = time
