@@ -29,7 +29,13 @@ class Node:
     def __str__(self):
         return "Value: " + str(self.value) + \
                "\t Distance: " + str(self.distance) + \
-               "\t f:" + str(self.f)
+               "\t f:" + str(self.f) + \
+               "\t predecessor: " + str(self.get_pred())
+
+    def get_pred(self):
+    	if self.predecessor is None:
+    		return None
+    	return self.predecessor.value
 
     def add_neighbor(self, node):
         self.neighbors.append(node)
